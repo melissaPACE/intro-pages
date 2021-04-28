@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>Michael's Intro Page</title>
+  <style>
+    body {
+      background-color: 33B2FF;
+      font-family: Helvetica;
+    }
+    h1, h3, img {
+      margin: 10%;
+    }
+  </style> 
+</head>
+ <body>
+ <h1> Michael Wilson </h1>
+ <h3> Hi, I'm Mike a senior Information Systems major on the pleasantville campus from Shelton, Connecticut. </h3>
+  </body>
+  </html>
